@@ -9,6 +9,7 @@
 
   #### :pencil2: Study log
   https://github.com/choi14123/java-baseball2 - 자바 숫자 야구
+  <br/>
   https://github.com/choi14123/java-calculator-7 - 자바 덧셈 계산기
   <br/>
  
