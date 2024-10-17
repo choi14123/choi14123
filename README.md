@@ -12,14 +12,7 @@
   <br/>
   https://github.com/choi14123/java-calculator-7 - 자바 덧셈 계산기
   <br/>
- 
+  <br/>
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=choi14123&show_icons=true&theme=radical)
-
+  
 </div>
-
-### :pencil2: Java Study Log
-
-
-
-### 📫 Contact Me
-- [Instagram](https://www.instagram.com/Ch0ichanghwan/)
